@@ -6,7 +6,7 @@
 - [x] The Clockmaker
 
 ## Weapons
-- [ ] Iron Poker
+- [x] Iron Poker
 - [x] Magnifying Glass
 - [ ] Walking Stick
 
