@@ -1,9 +1,9 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Artist
+- [x] The Artist
 - [ ] The Gardener
-- [ ] The Clockmaker
+- [x] The Clockmaker
 
 ## Weapons
 - [ ] Iron Poker
