@@ -7,7 +7,7 @@
 
 ## Weapons
 - [ ] Iron Poker
-- [ ] Magnifying Glass
+- [x] Magnifying Glass
 - [ ] Walking Stick
 
 ## Notes
